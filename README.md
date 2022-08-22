@@ -17,6 +17,9 @@ For this challenge, we had to create a portfolio using React!
 ## Installation Instructions:
 Installation instructions: For my portfolio I used a few different techniques. I used tailwind, react and Netify. Netify is where the portfolio is depoyed, and the live link will be provided below. To used the code provided, you will need to used npm and npm start. As I stated before, the porfolio is live. 
 
+
+Live portfolio : https://transcendent-semolina-f7b8b0.netlify.app/
+
 ## Usage:
 Usage instructions: This was used to create a React Portfolio!
 
